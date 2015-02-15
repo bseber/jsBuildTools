@@ -1,0 +1,7 @@
+{
+  "name": "jsBuildTool_examples",
+  "version": "1.0.0",
+  "description": "simple project to evaluate various javascript build tools",
+  "author": "Benjamin Seber <seber@synyx.de>",
+  "license": "MIT"
+}
