@@ -3,5 +3,15 @@
   "version": "1.0.0",
   "description": "simple project to evaluate various javascript build tools",
   "author": "Benjamin Seber <seber@synyx.de>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "babelify": "^5.0.3",
+    "broccoli": "^0.13.3",
+    "broccoli-copy": "^0.1.0",
+    "broccoli-merge-trees": "^0.2.1",
+    "broccoli-static-compiler": "^0.2.1",
+    "broccoli-watchify": "^0.2.0",
+    "broccoli-less": "^2.0.0",
+    "broccoli-less-single": "^0.1.5"
+  }
 }
